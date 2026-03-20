@@ -1,6 +1,6 @@
 # Visual Transit Simulator
 
-## 🚀 How to Run the Application
+## How to Run the Application
 
 ### 1. Start the Simulation Server
 
